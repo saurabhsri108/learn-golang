@@ -2,9 +2,7 @@ package main
 
 func main() {
 	cards := newDeck()
-	cards.print()
-}
-
-func newCard() string {
-	return "Five of Diamonds"
+	cards.shuffle()
+	dealDeck, _ := deal(cards, 3)
+	dealDeck.print()
 }
