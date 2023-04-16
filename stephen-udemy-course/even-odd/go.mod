@@ -1,3 +1,3 @@
-module github.com/geekysaurabh001/go-even-odd
+module github.com/saurabhsri108/go-even-odd
 
 go 1.20

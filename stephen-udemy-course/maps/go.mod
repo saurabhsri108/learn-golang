@@ -1,3 +1,3 @@
-module github.com/geekysaurabh001/go-maps
+module github.com/saurabhsri108/go-maps
 
 go 1.20

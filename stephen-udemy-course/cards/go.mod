@@ -1,3 +1,3 @@
-module github.com/geekysaurabh001/gocards
+module github.com/saurabhsri108/gocards
 
 go 1.20

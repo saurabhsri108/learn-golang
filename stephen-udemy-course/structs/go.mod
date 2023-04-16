@@ -1,3 +1,3 @@
-module github.com/geekysaurabh001/go-structs
+module github.com/saurabhsri108/go-structs
 
 go 1.20
